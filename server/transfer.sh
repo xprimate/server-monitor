@@ -4,5 +4,5 @@
 /usr/local/sbin/monitor.sh > /usr/local/sbin/E3monitorData.txt;
 #Append the content of backedupUsers to E3monitorData.txt
 cat /usr/local/sbin/backedupUsers >> /usr/local/sbin/E3monitorData.txt;
-curl -u monitor@ogbonna.name.ng:ftpPassword -T /usr/local/sbin/E3monitorData.txt  ftp://ftphost.com/
+curl -u monitor@ftphost.com:ftpPassword -T /usr/local/sbin/E3monitorData.txt  ftp://ftphost.com/
 
