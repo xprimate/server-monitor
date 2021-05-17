@@ -32,6 +32,7 @@ Navigate to www.yourdomainname/monitor
 
 You are done!
 
+![Server-Monitor](https://user-images.githubusercontent.com/17166016/118484396-16369380-b70f-11eb-902f-fd697104546e.png)
 
 
 
